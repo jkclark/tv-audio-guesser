@@ -1,5 +1,5 @@
+import sound from "../../audio/41_I'm_Hakoda,_Katara_and_So.mp3";
 import "./App.css";
-import sound from "./audio/s1/e1/the_ship_could_be_booby_trapped.mp3";
 
 function App() {
   // const [count, setCount] = useState(0);
