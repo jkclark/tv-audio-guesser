@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "audio-clipper"
+version = "0.1.0"
+description = ""
+authors = ["Josh Clark <jclarktennis@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pysrt = "^1.1.2"
+pymkv = "^1.0.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

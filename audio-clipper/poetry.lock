@@ -1,0 +1,58 @@
+[[package]]
+name = "bitmath"
+version = "1.3.3.1"
+description = "Pythonic module for representing and manipulating file sizes with different prefix notations (file size unit conversion)"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
+name = "chardet"
+version = "5.2.0"
+description = "Universal encoding detector for Python 3"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[[package]]
+name = "iso-639"
+version = "0.4.5"
+description = "Python library for ISO 639 standard"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
+name = "pymkv"
+version = "1.0.8"
+description = "A Python wrapper for mkvmerge. It provides support for muxing, splitting, linking, chapters, tags, and attachments through the use of mkvmerge."
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.dependencies]
+bitmath = "*"
+iso-639 = "*"
+
+[[package]]
+name = "pysrt"
+version = "1.1.2"
+description = "SubRip (.srt) subtitle parser and writer"
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.dependencies]
+chardet = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "5b0958d2d0bfd798311775266b01c82478a989404c73ce71322726db83c8ffff"
+
+[metadata.files]
+bitmath = []
+chardet = []
+iso-639 = []
+pymkv = []
+pysrt = []
