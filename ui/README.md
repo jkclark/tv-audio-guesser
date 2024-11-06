@@ -1,9 +1,3 @@
-# TV audio guessing game
-
-I just wanted to throw this project together quickly because I was inspired by [this ATLA guessing game](https://avatarguesser.vercel.app/avatar).
-
-(Original README below)
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

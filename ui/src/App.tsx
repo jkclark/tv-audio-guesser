@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-      <h1>Guess the episode from the audio</h1>
+      <h1>Guess the episode from the audio!</h1>
       <div>
         <button onClick={playSound}>Play Sound</button>
       </div>

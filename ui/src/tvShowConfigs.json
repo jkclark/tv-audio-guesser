@@ -1,0 +1,16 @@
+{
+  "id": "atla",
+  "name": "Avatar: The Last Airbender",
+  "numSeasons": 3,
+  "seasons": [
+    {
+      "numEpisodes": 20,
+      "episodes": [
+        {
+          "number": 1,
+          "name": "The Boy in the Iceberg"
+        }
+      ]
+    }
+  ]
+}
